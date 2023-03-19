@@ -1,17 +1,1 @@
-[{  "codigo": 1,  "titulo": "Lorem ipsum",  "resumo": "maecenas sed enim ut sem viverra aliquet eget",  "autores": ["Lorem ipsum"],
-  "codLivro": 0
-},
-{
-  "codigo": 2,
-  "titulo": "Lorem ipsum vol.2",
-  "resumo": "maecenas sed enim ut sem viverra aliquet eget",
-  "autores": ["Lorem ipsum"],
-  "codLivro": 1
-},
-{
-  "codigo": 3,
-  "titulo": "Lorem ipsum vol.3",
-  "resumo": "maecenas sed enim ut sem viverra aliquet eget",
-  "autores": ["Lorem ipsum"],
-  "codLivro": 0
-}]
+
