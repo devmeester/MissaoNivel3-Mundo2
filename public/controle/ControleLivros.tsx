@@ -1,7 +1,7 @@
 import Livro from '../modelo/Livro';
 
-const baseURL = "https://missao-nivel3-mundo2-5dhl.vercel.app/api/Livro"
-const baseURLjson = "https://missao-nivel3-mundo2-5dhl.vercel.app/livro.json"
+const baseURL = "missaonivel3mundo2.vercel.app/api/Livro"
+const baseURLjson = "missaonivel3mundo2.vercel.app/livro.json"
 
 
 
