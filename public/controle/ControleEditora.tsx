@@ -1,5 +1,5 @@
 import Editora from '../modelo/Editora';
-const baseURL = `missaonivel3mundo2.vercel.app/editora.json`
+const baseURL = `https://missaonivel3mundo2.vercel.app/editora.json`
 
  async function getEditoras(): Promise<Array<Editora>> {
   const response = await fetch(baseURL);
